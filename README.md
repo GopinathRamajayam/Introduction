@@ -1,9 +1,7 @@
 # Introduction
-First Repository for Learning
-
 
 Hi Guys, I am Gopinath Ramajayam. 
 
 Welcome from Darmstadt.
 
-Additional comments from readme-edits branch. !! yaayyyy !
+I upload my lecture assignments and own projects here.
